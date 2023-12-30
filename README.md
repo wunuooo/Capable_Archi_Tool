@@ -8,7 +8,7 @@ Current features include:
 * Delete placeholder component on canvas.
 * Disconnect wire with one click.
 * Custom GUI easily.
-* Detect component which exceeding time limit.
+* Detect component which exceeds time limit.
 * Preview/hide or enable/disable a group of components.
 * Get polygon POI from Amap.
 * Generate the isovist region of a viewpoint.
