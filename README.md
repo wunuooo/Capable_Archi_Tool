@@ -1,6 +1,6 @@
 # CapableArchiTool
 
-A small tool I developed during my architectural design course to facilitate modeling and controlling Grasshopper. (Still work in process)
+A small tool I developed during my architectural design course to facilitate analyzing and controlling Grasshopper. (Still work in process)
 
 <img src="pic.jpg" width="500px">
 
