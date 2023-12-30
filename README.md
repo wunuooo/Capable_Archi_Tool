@@ -11,7 +11,7 @@ Current features include:
 * Detect component which exceeding time limit.
 * Preview/hide or enable/disable a group of components.
 * Get polygon POI from Amap.
-* Generating the isovist region of a viewpoint.
+* Generate the isovist region of a viewpoint.
 * Simulate water runoff on terrain.
 
 I hope this tool helps speed up your modeling process and make it convenient to manage elements on Grasshopper canvas. It will be updated periodically with the addition of new features or bug fixes.
