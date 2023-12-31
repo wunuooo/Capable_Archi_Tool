@@ -17,3 +17,5 @@ Current features include:
 I hope this tool helps speed up your modeling process and make it convenient to manage elements on Grasshopper canvas. It will be updated periodically with the addition of new features or bug fixes.
 
 Please let me know if you run into any issues while using this plugin.   :)
+
+food4rhino: [https://www.food4rhino.com/en/app/capablearchitool-cat?lang=en](https://www.food4rhino.com/en/app/capablearchitool-cat?lang=en)
