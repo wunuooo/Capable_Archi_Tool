@@ -1,4 +1,4 @@
-# CapableArchiTool
+# Capable_Archi_Tool
 
 A small tool I developed during my architectural design course to facilitate analyzing and controlling Grasshopper. (Still work in process)
 
